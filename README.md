@@ -1,10 +1,10 @@
-# Furniture Shop App
+# Shopping Cart App
 
 A Flutter shopping cart application with state management using Provider.
 
 ## Features
 
-- Browse furniture products
+- Browse products
 - Category filtering
 - Product details view
 - Shopping cart functionality
